@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShyamgowthamMurugaraj
-- 👀 I’m interested in Web3,AI/ML,cyber sec
+- 👀 I’m interested in Web3,AI/ML,Cyber Security,Linux
 - 🌱 I’m currently learning AI/ML using python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me : DM me on discord PAIN#2610
