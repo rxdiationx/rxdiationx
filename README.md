@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShyamgowthamMurugaraj
 - 👀 I’m interested in AI/ML,Cyber Security
-- - 🌱 I’m currently learning AI/ML using python
+- 🌱 I’m currently learning AI/ML using python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me : DM me on discord (-_+)#2610
 - 🔥 I USE ARCH BTW
