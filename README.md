@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shyamgowthamm" target="blank"><img src="https://img.shields.io/twitter/follow/shyamgowthamm?logo=twitter&style=for-the-badge" alt="shyamgowthamm" /></a> </p>
 
-- 🌱 I’m currently learning **next.js and scikit-learn**
+- 🌱 I’m currently learning **Next.js and scikit-learn**
 
-- 👯 I’m looking to collaborate on **python and js projects**
+- 👯 I’m looking to collaborate on **Python and Javascript projects**
 
-- 💬 Ask me about **arduino , python , javascript , flask**
+- 💬 Ask me about **anything related to Python, Javascript, C and C++**
 
 - 📫 How to reach me **shyamgowtham.murugaraj@gmail.com**
 
