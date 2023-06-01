@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **shyamgowtham.murugaraj@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shyamgowthamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyamgowthamm" height="30" width="40" /></a>
 <a href="https://discord.gg/(-_+)#2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(-_+)#2610" height="30" width="40" /></a>
