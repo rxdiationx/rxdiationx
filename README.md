@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/shyamgowthamm" target="blank"><img src="https://img.shields.io/twitter/follow/shyamgowthamm?logo=twitter&style=for-the-badge" alt="shyamgowthamm" /></a> </p>
 
+<!--
 - 🌱 I’m currently learning **Next.js and scikit-learn**
 
 - 👯 I’m looking to collaborate on **Python and Javascript projects**
 
 - 💬 Ask me about **anything related to Python, Javascript, C and C++**
 
-- 📫 How to reach me **shyamgowtham.murugaraj@gmail.com**
+- 📫 How to reach me **shyamgowtham.murugaraj@gmail.com** -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamgowthammurugaraj&show_icons=true&locale=en" alt="shyamgowthammurugaraj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgowthammurugaraj&" alt="shyamgowthammurugaraj" /></p>
