@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shyamgowtham Murugaraj</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamgowthammurugaraj&label=Profile%20views&color=0e75b6&style=flat" alt="shyamgowthammurugaraj" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shyamgowthamm" target="blank"><img src="https://img.shields.io/twitter/follow/shyamgowthamm?logo=twitter&style=for-the-badge" alt="shyamgowthamm" /></a> </p>
-
-<!--
-- 🌱 I’m currently learning **Next.js and scikit-learn**
-
-- 👯 I’m looking to collaborate on **Python and Javascript projects**
-
-- 💬 Ask me about **anything related to Python, Javascript, C and C++**
-
-- 📫 How to reach me **shyamgowtham.murugaraj@gmail.com** -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+RadiationX)](https://git.io/typing-svg)
 
